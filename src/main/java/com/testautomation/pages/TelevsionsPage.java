@@ -9,7 +9,6 @@ public class TelevsionsPage extends ShopByCategoryMainPage {
 
     /**
      * Instantiates a new televisions page.
-     *
      * @param driver the driver.
      */
     public TelevsionsPage(final WebDriver driver) {
