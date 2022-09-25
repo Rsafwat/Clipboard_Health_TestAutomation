@@ -1,6 +1,4 @@
 package com.testautomation.pages;
-
-import com.testautomation.utility.CommonMethods;
 import com.testautomation.utility.SynchronizationMethods;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
