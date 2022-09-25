@@ -33,6 +33,9 @@ public class ExtentReportChrome {
      * report.
      */
     private ExtentTest screenshots;
+    /**
+     * A extent test for create test class instance.
+     */
     private ExtentTest test;
 
     /**
