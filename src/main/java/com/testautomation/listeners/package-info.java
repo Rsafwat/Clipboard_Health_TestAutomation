@@ -1,5 +1,5 @@
 /**
- * TestNG listeners to listen for different events during the test execution
+ * TestNG listeners to listen for different events, during the test execution
  * lifetime.
  */
 
