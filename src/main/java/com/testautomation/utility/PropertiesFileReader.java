@@ -10,7 +10,6 @@ public class PropertiesFileReader {
 
     /**
      * Gets the property.
-     *
      * @return the property
      * @throws IOException Signals that an I/O exception has occurred.
      */
