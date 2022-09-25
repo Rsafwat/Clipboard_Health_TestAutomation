@@ -22,7 +22,7 @@ public class TelevisionAboutThisItemSectionTest extends TestBase {
     private TelevsionsPage televsionsPage;
 
     /**
-     * Select and check product specs.
+     * Select and check product AboutThisItem Section.
      *
      * @param testData the test data
      */
@@ -30,7 +30,7 @@ public class TelevisionAboutThisItemSectionTest extends TestBase {
         "after a user choose a specific product (television) from Amazon Shop By Department menu ",
         dataProviderClass = TestDataProvider.class,
         dataProvider = "Shop-By-Category-Test-Data")
-    public void selectAndCheckProductSpecs(final HashMap<String, String> testData) {
+    public void selectAndCheckProductAboutThisItemSection(final HashMap<String, String> testData) {
         Browser.getReport().reportLog("Open “Hamburger menu” from amazon home page");
         amazonHomePage.openHamburgerMenu();
 
