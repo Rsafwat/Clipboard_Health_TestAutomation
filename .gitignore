@@ -1,5 +1,5 @@
 .DS_Store
-#target
+target
 
 
 #  project file
@@ -8,5 +8,5 @@
 
 
 # env
-#src/main/resources/browser-config.properties
+src/main/resources/browser-config.properties
 
