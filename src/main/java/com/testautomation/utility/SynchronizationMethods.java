@@ -18,7 +18,6 @@ public abstract class SynchronizationMethods {
 
     /**
      * Wait till element not visible.
-     *
      * @param driver          the driver
      * @param element         the element
      * @param timeoutInMillis the timeout in milliseconds
