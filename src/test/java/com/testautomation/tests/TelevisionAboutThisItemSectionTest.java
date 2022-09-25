@@ -65,7 +65,6 @@ public class TelevisionAboutThisItemSectionTest extends TestBase {
         Browser.getReport().reportLog( televsionsPage.displayAboutThisItemSectionContent());
 
     }
-
     /**
      * Before class.
      */
