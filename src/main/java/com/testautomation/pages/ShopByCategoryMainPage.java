@@ -156,7 +156,6 @@ public class ShopByCategoryMainPage {
 
     /**
      * Display the about this item section content.
-     *
      * @return
      */
     public String displayAboutThisItemSectionContent() {
