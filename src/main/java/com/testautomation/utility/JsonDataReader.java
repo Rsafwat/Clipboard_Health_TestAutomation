@@ -13,7 +13,6 @@ public abstract class JsonDataReader {
 
     /**
      * Json reader.
-     *
      * @param dataFileName the data file name with json extension
      * @return the JSON object
      */
