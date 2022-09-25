@@ -57,7 +57,7 @@ public abstract class  TestBase {
      * @throws Throwable the throwable
      */
     @BeforeClass
-    public void beforeClass() throws Throwable {
+    public void beforeClass()  {
 
     }
 
