@@ -3,7 +3,6 @@ package com.testautomation.utility;
 import java.util.ArrayList;
 import java.util.Properties;
 import com.testautomation.reports.ExtentReportChrome;
-
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.WebDriver;
 
