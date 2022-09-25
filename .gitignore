@@ -1,0 +1,12 @@
+.DS_Store
+target
+
+
+#  project file
+.idea
+
+
+
+# env
+#src/main/resources/browser-config.properties
+
