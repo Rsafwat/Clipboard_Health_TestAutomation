@@ -15,7 +15,6 @@ public abstract class TestDataProvider {
 
     /**
      * Shop by Category data provider.
-     *
      * @return the object[]
      */
     @DataProvider(name = "Shop-By-Category-Test-Data")
