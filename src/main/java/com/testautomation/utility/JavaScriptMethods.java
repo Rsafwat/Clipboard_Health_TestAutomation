@@ -12,7 +12,6 @@ public abstract class JavaScriptMethods {
 
     /**
      * click - method to execute a JavaScript click event.
-     *
      * @param driver  the driver
      * @param element the element
      */
