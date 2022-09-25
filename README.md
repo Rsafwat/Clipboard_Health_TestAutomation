@@ -3,6 +3,7 @@
 
 * Common web page interaction methods
 * Externalised test configuration
+* page object model design patterns
 * Commonly used test utility classes
 * Screenshots
 * Reporting
