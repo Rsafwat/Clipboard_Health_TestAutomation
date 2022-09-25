@@ -12,7 +12,6 @@ import org.testng.annotations.DataProvider;
  * The Class TestDataProvider.
  */
 public abstract class TestDataProvider {
-
     /**
      * Shop by Category data provider.
      * @return the object[]
