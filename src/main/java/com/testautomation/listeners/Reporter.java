@@ -47,10 +47,8 @@ public class Reporter implements IReporter {
                 }
             }
         }
-
         // remove the dummy screenshot test from the final report page.
         Browser.getReport().removeScreenshotTest();
-
         // flushing— saving —the report content to disk.
         Browser.getReport().getExtent().flush();
 

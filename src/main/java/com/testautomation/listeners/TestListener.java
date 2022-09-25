@@ -5,7 +5,6 @@ import org.testng.ITestResult;
 public class TestListener implements ITestListener {
     /**
      * On test success.
-     *
      * @param result the result
      */
     @Override
