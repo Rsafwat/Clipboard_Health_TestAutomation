@@ -1,5 +1,4 @@
 package com.testautomation.utility;
-
 import java.util.ArrayList;
 import java.util.Properties;
 import com.testautomation.reports.ExtentReportChrome;
