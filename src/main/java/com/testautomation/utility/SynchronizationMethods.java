@@ -3,7 +3,6 @@ package com.testautomation.utility;
 import java.time.Duration;
 import java.util.List;
 import java.util.function.Function;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;

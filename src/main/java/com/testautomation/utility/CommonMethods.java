@@ -1,5 +1,4 @@
 package com.testautomation.utility;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -154,7 +153,6 @@ public abstract class CommonMethods {
     }
 /**
  * get element Text.
- *
  * @param element the element
  * @return text of the web element
  */

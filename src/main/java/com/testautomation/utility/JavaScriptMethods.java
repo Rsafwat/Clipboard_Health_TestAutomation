@@ -1,4 +1,3 @@
-
 package com.testautomation.utility;
 
 import org.openqa.selenium.By;
